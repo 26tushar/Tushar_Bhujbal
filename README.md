@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 <hr>
-About me :
+About me :<br>
 [![Linkedin Badge](https://img.shields.io/badge/-Tushar_Bhujbal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushar-bhujbal-b53025169/)](https://www.linkedin.com/in/tushar-bhujbal-b53025169/)
 
 I'm  Full Stack Web Devloper
